@@ -1,0 +1,1001 @@
+,stonk_name,stonk_link,stonk_ticker
+0,Ford Motor,https://www.investing.com/equities/ford-motor-co,F
+1,Apple,https://www.investing.com/equities/apple-computer-inc,AAPL
+2,Ascent Solar,https://www.investing.com/equities/ascent-solar-tech,ASTI
+3,Bank of America,https://www.investing.com/equities/bank-of-america,BAC
+4,AT&T,https://www.investing.com/equities/at-t,T
+5,AMD,https://www.investing.com/equities/adv-micro-device,AMD
+6,NVIDIA,https://www.investing.com/equities/nvidia-corp,NVDA
+7,Marvell,https://www.investing.com/equities/marvell-technology-group-ltd,MRVL
+8,Petroleo Brasileiro Petrobras ADR,https://www.investing.com/equities/petroleo-bras,PBR
+9,Vale ADR,https://www.investing.com/equities/vale-s.a.--americ,VALE
+10,Microsoft,https://www.investing.com/equities/microsoft-corp,MSFT
+11,Pfizer,https://www.investing.com/equities/pfizer,PFE
+12,FuelCell Energy,https://www.investing.com/equities/fuelcell-energy,FCEL
+13,Intel,https://www.investing.com/equities/intel-corp,INTC
+14,Tesla,https://www.investing.com/equities/tesla-motors,TSLA
+15,Wells Fargo&Co,https://www.investing.com/equities/wells-fargo,WFC
+16,Cleveland-Cliffs,https://www.investing.com/equities/cleveland-cliffs,CLF
+17,Cisco,https://www.investing.com/equities/cisco-sys-inc,CSCO
+18,Delta Air Lines,https://www.investing.com/equities/delta-air-lines-new,DAL
+19,Citigroup,https://www.investing.com/equities/citigroup,C
+20,ViacomCBS,https://www.investing.com/equities/viacom-cl-b,VIAC
+21,Sirius XM,https://www.investing.com/equities/sirius-satellite-radio-inc,SIRI
+22,Verizon,https://www.investing.com/equities/verizon-communications,VZ
+23,Riot Blockchain,https://www.investing.com/equities/venaxis,RIOT
+24,Comcast,https://www.investing.com/equities/comcast-corp-new,CMCSA
+25,Exxon Mobil,https://www.investing.com/equities/exxon-mobil,XOM
+26,Barrick Gold,https://www.investing.com/equities/barrick-gold-corp.,GOLD
+27,CSX,https://www.investing.com/equities/csx-corp,CSX
+28,Coca-Cola,https://www.investing.com/equities/coca-cola-co,KO
+29,PG E,https://www.investing.com/equities/pacific-gas-electric,PCG
+30,Yamana Gold,https://www.investing.com/equities/yamana-gold,AUY
+31,Southwestern Energy,https://www.investing.com/equities/southwestern-energy-company,SWN
+32,Freeport-McMoran,https://www.investing.com/equities/freeport-mcm,FCX
+33,General Motors,https://www.investing.com/equities/gen-motors,GM
+34,Micron,https://www.investing.com/equities/micron-tech,MU
+35,Macy’s Inc,https://www.investing.com/equities/macys,M
+36,United States Steel,https://www.investing.com/equities/us-steel-corp,X
+37,Marathon Oil,https://www.investing.com/equities/marathon-oil,MRO
+38,Bristol-Myers Squibb,https://www.investing.com/equities/bristol-myer-squiib,BMY
+39,United Airlines Holdings,https://www.investing.com/equities/united-continenta,UAL
+40,Transocean,https://www.investing.com/equities/transocea-ltd,RIG
+41,HP Inc,https://www.investing.com/equities/hewlett-pack,HPQ
+42,BIOLASE,https://www.investing.com/equities/biolase-tech,BIOL
+43,EQT,https://www.investing.com/equities/eqt-corporation,EQT
+44,Occidental,https://www.investing.com/equities/occidental-petro,OXY
+45,APA Corp,https://www.investing.com/equities/apache-corp,APA
+46,Walt Disney,https://www.investing.com/equities/disney,DIS
+47,Walmart,https://www.investing.com/equities/wal-mart-stores,WMT
+48,Huntington Bancshares,https://www.investing.com/equities/huntgtn-bkshr,HBAN
+49,Merck&Co,https://www.investing.com/equities/merck---co,MRK
+50,Activision Blizzard,https://www.investing.com/equities/activision-inc,ATVI
+51,Teva ADR,https://www.investing.com/equities/teva-pharmaceutical-inds-ltd,TEVA
+52,BlackBerry,https://www.investing.com/equities/research-in-motion-ltd,BB
+53,Walgreens Boots,https://www.investing.com/equities/walgreen-co,WBA
+54,JPMorgan,https://www.investing.com/equities/jp-morgan-chase,JPM
+55,Kroger,https://www.investing.com/equities/kroger-co,KR
+56,Kinross Gold,https://www.investing.com/equities/kinross-gold,KGC
+57,Qualcomm,https://www.investing.com/equities/qualcomm-inc,QCOM
+58,NextEra Energy,https://www.investing.com/equities/nextera-energy-inc,NEE
+59,Procter&Gamble,https://www.investing.com/equities/procter-gamble,PG
+60,Boeing,https://www.investing.com/equities/boeing-co,BA
+61,Visa A,https://www.investing.com/equities/visa-inc,V
+62,Gap,https://www.investing.com/equities/gap.inc,GPS
+63,Cemex ADR,https://www.investing.com/equities/cemex-sab-de-cv-adr,CX
+64,Oracle,https://www.investing.com/equities/oracle-corp,ORCL
+65,Chevron,https://www.investing.com/equities/chevron,CVX
+66,Lumen Technologies,https://www.investing.com/equities/centurylink,LUMN
+67,Baidu,https://www.investing.com/equities/baidu.com,BIDU
+68,Regions Financial,https://www.investing.com/equities/regions-fin,RF
+69,ICICI Bank ADR,https://www.investing.com/equities/icici-bank,IBN
+70,CTi Biopharma,https://www.investing.com/equities/cell-therapeutics,CTIC
+71,eBay,https://www.investing.com/equities/ebay-inc,EBAY
+72,Devon Energy,https://www.investing.com/equities/devon-energy,DVN
+73,Mitsubishi UFJ Financial ADR,https://www.investing.com/equities/mits-ufj-financial-grp,MUFG
+74,Morgan Stanley,https://www.investing.com/equities/morgan-stanley,MS
+75,Schlumberger,https://www.investing.com/equities/schlumberger-ltd,SLB
+76,Harmony Gold Mining,https://www.investing.com/equities/harmony-gold-mng,HMY
+77,KeyCorp,https://www.investing.com/equities/keycorp-new,KEY
+78,Trip.com ADR,https://www.investing.com/equities/ctrip.com-international,TCOM
+79,Discovery A,https://www.investing.com/equities/discovery-holding-co,DISCA
+80,Amyris,https://www.investing.com/equities/amyris,AMRS
+81,Halliburton,https://www.investing.com/equities/halliburton-co,HAL
+82,Newmont Goldcorp,https://www.investing.com/equities/newmont-mining,NEM
+83,Salesforce.com,https://www.investing.com/equities/salesforce-com,CRM
+84,Boston Scientific,https://www.investing.com/equities/boston-scien-cp,BSX
+85,Host Hotels Resorts,https://www.investing.com/equities/host-hotels---res,HST
+86,Altria,https://www.investing.com/equities/altria-group,MO
+87,J&J,https://www.investing.com/equities/johnson-johnson,JNJ
+88,Southwest Airlines,https://www.investing.com/equities/sth-west-airlines,LUV
+89,Viatris,https://www.investing.com/equities/mylan-inc,VTRS
+90,Exelon,https://www.investing.com/equities/exelon-corp,EXC
+91,JetBlue,https://www.investing.com/equities/jet-blue,JBLU
+92,Cumberland,https://www.investing.com/equities/cumberland-pharma,CPIX
+93,Dell Tech,https://www.investing.com/equities/dell-inc,DELL
+94,General Electric,https://www.investing.com/equities/general-electric,GE
+95,Kraft Heinz,https://www.investing.com/equities/kraft-foods-inc,KHC
+96,Baker Hughes,https://www.investing.com/equities/baker-hughes,BKR
+97,Marathon Petroleum,https://www.investing.com/equities/marathon-petroleum-corp.,MPC
+98,TJX,https://www.investing.com/equities/tjx-co-inc,TJX
+99,Gilead,https://www.investing.com/equities/gilead-sciences-inc,GILD
+100,Applied Materials,https://www.investing.com/equities/applied-matls-inc,AMAT
+101,MGM,https://www.investing.com/equities/mgm-mirage,MGM
+102,Western Union,https://www.investing.com/equities/western-union,WU
+103,Philip Morris,https://www.investing.com/equities/philip-morris-intl,PM
+104,Charles Schwab,https://www.investing.com/equities/charles-schwab,SCHW
+105,Keurig Dr Pepper,https://www.investing.com/equities/dr-pepper-snapple,KDP
+106,NetEase,https://www.investing.com/equities/netease.com,NTES
+107,Las Vegas Sands,https://www.investing.com/equities/las-vegas-sands,LVS
+108,ConocoPhillips,https://www.investing.com/equities/conoco-phillips,COP
+109,Dow,https://www.investing.com/equities/dow-chemical,DOW
+110,Coterra Energy,https://www.investing.com/equities/cabot-oil---gas,CTRA
+111,Starbucks,https://www.investing.com/equities/starbucks-corp,SBUX
+112,Williams,https://www.investing.com/equities/williams-cos,WMB
+113,Infosys ADR,https://www.investing.com/equities/infosy-tech,INFY
+114,Gold Fields ADR,https://www.investing.com/equities/gold-fields-lts,GFI
+115,Discovery Communications C,https://www.investing.com/equities/discovery-communications-(c),DISCK
+116,Adobe,https://www.investing.com/equities/adobe-sys-inc,ADBE
+117,Truist Financial Corp,https://www.investing.com/equities/bb-t-corp,TFC
+118,Medtronic,https://www.investing.com/equities/medtronic,MDT
+119,IBM,https://www.investing.com/equities/ibm,IBM
+120,PepsiCo,https://www.investing.com/equities/pepsico,PEP
+121,Ballard,https://www.investing.com/equities/ballard-power-systems-inc,BLDP
+122,Nordstrom,https://www.investing.com/equities/nordstrom-inc,JWN
+123,U.S. Bancorp,https://www.investing.com/equities/us-bancorp,USB
+124,The AES,https://www.investing.com/equities/aes-corp,AES
+125,Raytheon Technologies,https://www.investing.com/equities/united-tech,RTX
+126,Alcoa,https://www.investing.com/equities/alcoa,AA
+127,Cameco,https://www.investing.com/equities/cameco-corp,CCJ
+128,Berkshire Hathaway B,https://www.investing.com/equities/berkshire-hathaway,BRKb
+129,Fiserv,https://www.investing.com/equities/fiserv-inc,FISV
+130,Southern,https://www.investing.com/equities/southern-co,SO
+131,MetLife,https://www.investing.com/equities/metlife-inc,MET
+132,AGNC Invest,https://www.investing.com/equities/american-capital-agency,AGNC
+133,CenterPoint Energy,https://www.investing.com/equities/centerpoint,CNP
+134,CVS Health Corp,https://www.investing.com/equities/cvs-corp,CVS
+135,Under Armour A,https://www.investing.com/equities/under-armour,UAA
+136,Genworth,https://www.investing.com/equities/genworth-finl,GNW
+137,Microchip,https://www.investing.com/equities/microchip-technology-inc,MCHP
+138,Seelos Therapeutics,https://www.investing.com/equities/apricus-biosciences,SEEL
+139,Clovis,https://www.investing.com/equities/clovis-oncology,CLVS
+140,Fifth Third,https://www.investing.com/equities/fifth-third-bk,FITB
+141,PPL,https://www.investing.com/equities/ppl-corp,PPL
+142,Kohls Corp,https://www.investing.com/equities/kohls-corp,KSS
+143,Bank of NY Mellon,https://www.investing.com/equities/bk-of-ny,BK
+144,Flex,https://www.investing.com/equities/flextronics-intl-ltd,FLEX
+145,TechnipFMC,https://www.investing.com/equities/fmc-technologies-inc,FTI
+146,Wynn Resorts,https://www.investing.com/equities/wynn-resorts-ltd,WYNN
+147,Abbott Labs,https://www.investing.com/equities/abbott-laboratories,ABT
+148,Home Depot,https://www.investing.com/equities/home-depot,HD
+149,Qurate Retail A,https://www.investing.com/equities/liberty-media-inter,QRTEA
+150,AIG,https://www.investing.com/equities/american-intl-group,AIG
+151,Colgate-Palmolive,https://www.investing.com/equities/colgate-palmo,CL
+152,EOG Resources,https://www.investing.com/equities/eog-resources,EOG
+153,Nike,https://www.investing.com/equities/nike,NKE
+154,Kimco,https://www.investing.com/equities/kimco-realty,KIM
+155,Texas Instruments,https://www.investing.com/equities/texas-instru,TXN
+156,Netflix,"https://www.investing.com/equities/netflix,-inc.",NFLX
+157,Mastercard,https://www.investing.com/equities/mastercard-cl-a,MA
+158,Target,https://www.investing.com/equities/target,TGT
+159,Corning,https://www.investing.com/equities/corning-inc,GLW
+160,Fidelity National Info,https://www.investing.com/equities/fidelity-natl-in,FIS
+161,Teck Resources B,https://www.investing.com/equities/teck-cominco,TECK
+162,Mosaic,https://www.investing.com/equities/mosaic-company,MOS
+163,First Horizon National,https://www.investing.com/equities/first-horizon-ntl,FHN
+164,NiSource,https://www.investing.com/equities/ni-source-inc,NI
+165,Dynavax,https://www.investing.com/equities/dynavax-tech,DVAX
+166,DISH Network,https://www.investing.com/equities/dish-network,DISH
+167,Blackstone Group,https://www.investing.com/equities/the-blackstone-group,BX
+168,Clean Energy,https://www.investing.com/equities/clean-energy-fuel,CLNE
+169,Xilinx,https://www.investing.com/equities/xilinx-inc,XLNX
+170,Invesco,https://www.investing.com/equities/invesco-ltd,IVZ
+171,IPG,https://www.investing.com/equities/interpublic-grp,IPG
+172,Nucor,https://www.investing.com/equities/nucor,NUE
+173,Eli Lilly,https://www.investing.com/equities/eli-lilly-and-co,LLY
+174,Johnson Controls,https://www.investing.com/equities/johnson-controls,JCI
+175,GameStop Corp,https://www.investing.com/equities/gamestop-corp,GME
+176,Valero Energy,https://www.investing.com/equities/valero-energy,VLO
+177,Agenus,https://www.investing.com/equities/agenus-inc,AGEN
+178,Nuance Communications,https://www.investing.com/equities/nuance-communications,NUAN
+179,Endo Int,https://www.investing.com/equities/endo-pharmaceuticals,ENDP
+180,General Mills,https://www.investing.com/equities/general-mills,GIS
+181,American Express,https://www.investing.com/equities/american-express,AXP
+182,Western Digital,https://www.investing.com/equities/western-digital,WDC
+183,Best Buy,https://www.investing.com/equities/best-buy,BBY
+184,SunPower,https://www.investing.com/equities/sunpower-corporation,SPWR
+185,International Paper,https://www.investing.com/equities/intl-paper-co,IP
+186,MGIC Investment,https://www.investing.com/equities/mgic-inv,MTG
+187,Lowe’s,https://www.investing.com/equities/lowes-companies,LOW
+188,Amazon.com,https://www.investing.com/equities/amazon-com-inc,AMZN
+189,VMware,https://www.investing.com/equities/vm-ware-inc,VMW
+190,DuPont De Nemours,https://www.investing.com/equities/du-pont,DD
+191,Juniper,https://www.investing.com/equities/juniper-networks-inc,JNPR
+192,Range Resources,https://www.investing.com/equities/range-resources-corp,RRC
+193,Nov,https://www.investing.com/equities/ntl-oilwell-varc,NOV
+194,Tapestry,https://www.investing.com/equities/coach,TPR
+195,Simon Property,https://www.investing.com/equities/simon-prop-grp,SPG
+196,Aflac,https://www.investing.com/equities/aflac-inc,AFL
+197,Amgen,https://www.investing.com/equities/amgen-inc,AMGN
+198,Dominion Energy,https://www.investing.com/equities/dominion-res,D
+199,Dentsply,https://www.investing.com/equities/dentsply-intl-inc-new,XRAY
+200,Cognizant A,https://www.investing.com/equities/cognizant-technology-solutio,CTSH
+201,Ball,https://www.investing.com/equities/ball-corp,BLL
+202,Honeywell,https://www.investing.com/equities/honeywell-intl,HON
+203,CF Industries,https://www.investing.com/equities/cf-industries,CF
+204,Electronic Arts,https://www.investing.com/equities/electronic-arts-inc,EA
+205,Xcel Energy,https://www.investing.com/equities/xcel-energy,XEL
+206,Caterpillar,https://www.investing.com/equities/caterpillar,CAT
+207,NortonLifeLock Inc,https://www.investing.com/equities/symantec-corp,NLOK
+208,McDonald’s,https://www.investing.com/equities/mcdonalds,MCD
+209,Unum,https://www.investing.com/equities/unum-group,UNM
+210,Cinedigm,https://www.investing.com/equities/cinedigm-digital,CIDM
+211,ConAgra Foods,https://www.investing.com/equities/conagra-foods,CAG
+212,Edwards Lifesciences,https://www.investing.com/equities/edward-lifescience,EW
+213,Marriott Int,https://www.investing.com/equities/marriott-intl,MAR
+214,Patterson-UTI Energy,https://www.investing.com/equities/patterson-uti-energy-inc,PTEN
+215,CoStar,https://www.investing.com/equities/costar-group,CSGP
+216,Franklin Resources,https://www.investing.com/equities/franklin-res,BEN
+217,Tyson Foods,https://www.investing.com/equities/tyson-foods,TSN
+218,UnitedHealth,https://www.investing.com/equities/united-health-group,UNH
+219,3M,https://www.investing.com/equities/3m-co,MMM
+220,Seagate,https://www.investing.com/equities/seagate-technology,STX
+221,Duke Energy,https://www.investing.com/equities/duke-energy,DUK
+222,Bausch Health,https://www.investing.com/equities/valeant-pharma,BHC
+223,Fastenal,https://www.investing.com/equities/fastenal-co,FAST
+224,Mattel,https://www.investing.com/equities/mattel-inc,MAT
+225,Builders FirstSource,https://www.investing.com/equities/builders-firstsou,BLDR
+226,Union Pacific,https://www.investing.com/equities/union-pacific,UNP
+227,Costco,https://www.investing.com/equities/costco-whsl-corp-new,COST
+228,Analog Devices,https://www.investing.com/equities/analog-devices,ADI
+229,EXACT Sciences,https://www.investing.com/equities/exact-sciences-co,EXAS
+230,Emerson,https://www.investing.com/equities/emerson-elec,EMR
+231,Danaher,https://www.investing.com/equities/danaher-corp,DHR
+232,Welltower,https://www.investing.com/equities/health-care-reit,WELL
+233,News Corp A,https://www.investing.com/equities/news-corp.,NWSA
+234,FirstEnergy,https://www.investing.com/equities/first-energy,FE
+235,Viavi Solutions,https://www.investing.com/equities/jds-uniphase-corp,VIAV
+236,Prologis,https://www.investing.com/equities/prologis,PLD
+237,Masco,https://www.investing.com/equities/masco-corp,MAS
+238,American Electric Power,https://www.investing.com/equities/american-electric,AEP
+239,Allstate,https://www.investing.com/equities/allstate-corporation,ALL
+240,CNX Resources,https://www.investing.com/equities/consol-energy,CNX
+241,Amphenol,https://www.investing.com/equities/amphenol-corp,APH
+242,Weyerhaeuser,https://www.investing.com/equities/weyerhaeuser,WY
+243,NXP,https://www.investing.com/equities/nxp-semiconductors,NXPI
+244,Bed Bath&Beyond,https://www.investing.com/equities/bed-bath---beyond-inc,BBBY
+245,Big Lots,https://www.investing.com/equities/big-lots-inc,BIG
+246,PulteGroup,https://www.investing.com/equities/pulte-homes-inc,PHM
+247,BGC Partners,https://www.investing.com/equities/bgc-partners,BGCP
+248,Capital One Financial,https://www.investing.com/equities/capital-one,COF
+249,Goodyear Tire & Rubber Co,https://www.investing.com/equities/goodyear-tire,GT
+250,Goldman Sachs,https://www.investing.com/equities/goldman-sachs-group,GS
+251,Cardinal Health,https://www.investing.com/equities/cardinal-health,CAH
+252,Agnico Eagle Mines,https://www.investing.com/equities/agnico-eagle-mines,AEM
+253,Omnicom,https://www.investing.com/equities/omnicom-gp-inc,OMC
+254,Wheaton Precious Metals,https://www.investing.com/equities/silver-wheaton-corp,WPM
+255,Sysco,https://www.investing.com/equities/sysco-corp,SYY
+256,Consolidated Edison,https://www.investing.com/equities/cocnsol-edison,ED
+257,America Movil ADR,https://www.investing.com/equities/america-movil,AMX
+258,Expedia,https://www.investing.com/equities/expedia,EXPE
+259,ICE,https://www.investing.com/equities/intercontintlex,ICE
+260,Progressive,https://www.investing.com/equities/the-progressive,PGR
+261,Vertex,https://www.investing.com/equities/vertex-pharm,VRTX
+262,DR Horton,https://www.investing.com/equities/d.r.-horton-inc,DHI
+263,SLM,https://www.investing.com/equities/slm-corporation,SLM
+264,United Parcel Service,https://www.investing.com/equities/united-parcel,UPS
+265,Newell Brands,https://www.investing.com/equities/newell-rubber,NWL
+266,Principal Financial,https://www.investing.com/equities/principal-fin,PFG
+267,Baxter,https://www.investing.com/equities/baxter-intl,BAX
+268,Healthpeak Properties,https://www.investing.com/equities/hcp-inc,PEAK
+269,Pitney Bowes,https://www.investing.com/equities/pitney-bowes-inc,PBI
+270,Intuitive Surgical,https://www.investing.com/equities/intuitive-surgical-inc,ISRG
+271,DXC Technology,https://www.investing.com/equities/comp-science,DXC
+272,FedEx,https://www.investing.com/equities/fedex-corp,FDX
+273,Autodesk,https://www.investing.com/equities/autodesk-inc,ADSK
+274,Xerox,https://www.investing.com/equities/xerox-corp,XRX
+275,Edison,https://www.investing.com/equities/edison-intl,EIX
+276,ONEOK,https://www.investing.com/equities/oneok,OKE
+277,3D Systems,https://www.investing.com/equities/3d-systems-corporation,DDD
+278,Curis,https://www.investing.com/equities/curis,CRIS
+279,Monster Beverage,https://www.investing.com/equities/monster-beverage,MNST
+280,Cigna,https://www.investing.com/equities/cigna-corp,CI
+281,Accenture,https://www.investing.com/equities/accenture-ltd,ACN
+282,VF,https://www.investing.com/equities/vf-corp,VFC
+283,Prudential Financial,https://www.investing.com/equities/prudential-fin,PRU
+284,Cadence Design,https://www.investing.com/equities/cadence-design-system-inc,CDNS
+285,Pan American Silver,https://www.investing.com/equities/pan-american-silver-corp,PAAS
+286,BioCryst,https://www.investing.com/equities/biocryst-pharmaceuticals,BCRX
+287,Color Star Technology Co,https://www.investing.com/equities/china-advanced,CSCW
+288,Intuit,https://www.investing.com/equities/intuit,INTU
+289,Lennar,https://www.investing.com/equities/lennar,LEN
+290,PACCAR,https://www.investing.com/equities/paccar-inc,PCAR
+291,Female Health,https://www.investing.com/equities/female-health-com,VERU
+292,Campbell Soup,https://www.investing.com/equities/campbell-soup,CPB
+293,Archer-Daniels-Midland,https://www.investing.com/equities/archer-daniels-mid,ADM
+294,Dollar Tree,https://www.investing.com/equities/dollar-tree-inc,DLTR
+295,8x8,https://www.investing.com/equities/8x8-inc,EGHT
+296,Discover,https://www.investing.com/equities/discover-financl,DFS
+297,Aeterna Zentaris,https://www.investing.com/equities/aeterna-zentaris-inc?cid=15348,AEZS
+298,Ingersoll Rand,https://www.investing.com/equities/ingersoll-rand,IR
+299,Cyren,https://www.investing.com/equities/commtouch-software,CYRN
+300,Hormel Foods,https://www.investing.com/equities/hormel-foods-corp,HRL
+301,Norfolk Southern,https://www.investing.com/equities/norfolk-southern,NSC
+302,Apartment Invest,https://www.investing.com/equities/apt-inv-manage,AIV
+303,Chubb,https://www.investing.com/equities/chubb-corp,CB
+304,Cerner,https://www.investing.com/equities/cerner-corporatio,CERN
+305,State Street,https://www.investing.com/equities/state-street,STT
+306,Broadcom,https://www.investing.com/equities/avago-technologies,AVGO
+307,DTE Energy,https://www.investing.com/equities/dte-energy,DTE
+308,Digital Ally,https://www.investing.com/equities/digital-ally,DGLY
+309,Marsh McLennan,https://www.investing.com/equities/marsh---mclennan,MMC
+310,NRG,https://www.investing.com/equities/nrg-energy-inc,NRG
+311,Alphabet A,https://www.investing.com/equities/google-inc,GOOGL
+312,Yum! Brands,https://www.investing.com/equities/yum!-brands-inc,YUM
+313,Bath Body Works,https://www.investing.com/equities/limited-brands,BBWI
+314,H&R Block,https://www.investing.com/equities/h---r-block-inc,HRB
+315,CBAK Energy,https://www.investing.com/equities/china-bak-battery,CBAT
+316,UBS Group,https://www.investing.com/equities/ubs-group-n?cid=8132,UBS
+317,Stanley Black Decker,https://www.investing.com/equities/stanley-works,SWK
+318,NetApp,https://www.investing.com/equities/network-appliance-inc,NTAP
+319,Site Centers,https://www.investing.com/equities/ddr,SITC
+320,Murphy Oil,https://www.investing.com/equities/murphy-oil-corp,MUR
+321,Chimera Investment,https://www.investing.com/equities/chimera-investment-corp,CIM
+322,Yandex,https://www.investing.com/equities/yandex,YNDX
+323,Ventas,https://www.investing.com/equities/ventas-inc,VTR
+324,Hess,https://www.investing.com/equities/hess-corp,HES
+325,Pioneer Natural,https://www.investing.com/equities/pioneer-natural-resources,PXD
+326,Canadian Solar Inc,https://www.investing.com/equities/canadian-solar,CSIQ
+327,Sherwin-Williams,https://www.investing.com/equities/sherwinwilliams,SHW
+328,Lincoln National,https://www.investing.com/equities/lincoln-natl,LNC
+329,Hartford,https://www.investing.com/equities/hartford-finl,HIG
+330,IGT,https://www.investing.com/equities/intl-game-tech,IGT
+331,Amicus,https://www.investing.com/equities/amicus-therapeutics,FOLD
+332,Zimmer Biomet,https://www.investing.com/equities/zimmer-hldgs,ZBH
+333,Ecolab,https://www.investing.com/equities/ecolab-inc,ECL
+334,Cerus,https://www.investing.com/equities/cerus-corp,CERS
+335,Allscripts,https://www.investing.com/equities/allscripts-misys-healthcre-solution,MDRX
+336,Steel Dynamics,https://www.investing.com/equities/steel-dynamics,STLD
+337,Ross Stores,https://www.investing.com/equities/ross-stores-inc,ROST
+338,Sarepta,https://www.investing.com/equities/sarepta,SRPT
+339,Ionis Pharma,https://www.investing.com/equities/isis-pharma,IONS
+340,Kimberly-Clark,https://www.investing.com/equities/kimberly-clark,KMB
+341,Kellogg,https://www.investing.com/equities/kellogg-co.,K
+342,KB Home,https://www.investing.com/equities/kb-home,KBH
+343,Abercrombie&Fitch,https://www.investing.com/equities/aberc-fitch-a,ANF
+344,Public Service Enterprise,https://www.investing.com/equities/publ-svc-enter,PEG
+345,American Tower,https://www.investing.com/equities/amer-tower-corp,AMT
+346,PNC Financial,https://www.investing.com/equities/pnc-fin-serv,PNC
+347,Thermo Fisher Scientific,https://www.investing.com/equities/thermo-fisher-sc,TMO
+348,Athersys,https://www.investing.com/equities/athersys,ATHX
+349,Ciena Corp,https://www.investing.com/equities/ciena,CIEN
+350,Stryker,https://www.investing.com/equities/stryker,SYK
+351,Sempra Energy,https://www.investing.com/equities/sempra-energy,SRE
+352,CH Robinson,https://www.investing.com/equities/c-h-robinson-worldwide-inc,CHRW
+353,Teradyne,https://www.investing.com/equities/teradyne-inc,TER
+354,ADP,https://www.investing.com/equities/auto-data-process,ADP
+355,Big 5,https://www.investing.com/equities/big-5-sporting-go,BGFV
+356,Helmerich Payne,https://www.investing.com/equities/helmerich---payne,HP
+357,Eversource Energy,https://www.investing.com/equities/northeast-utilities,ES
+358,Corcept,https://www.investing.com/equities/corcept-therapeutics,CORT
+359,CBRE A,https://www.investing.com/equities/cbre,CBRE
+360,Lockheed Martin,https://www.investing.com/equities/lockheed-martin,LMT
+361,Comerica,https://www.investing.com/equities/comerica-inc,CMA
+362,Anthem,https://www.investing.com/equities/wellpoint-inc,ANTM
+363,First Solar,https://www.investing.com/equities/first-solar-inc,FSLR
+364,Molson Coors Brewing B,https://www.investing.com/equities/molson-coors,TAP
+365,PPG Industries,https://www.investing.com/equities/ppg-industries,PPG
+366,Grupo Televisa ADR,https://www.investing.com/equities/grupo-televisa-sa-adr,TV
+367,JM Smucker,https://www.investing.com/equities/jm-smucker-co,SJM
+368,Teradata,https://www.investing.com/equities/teradata,TDC
+369,Nippon ADR,https://www.investing.com/equities/nippon-telegraph,NTTYY
+370,S&P Global,https://www.investing.com/equities/mcgraw-hill,SPGI
+371,Alphatecs,https://www.investing.com/equities/alphatec-holdings,ATEC
+372,Fluor,https://www.investing.com/equities/fluor-corp,FLR
+373,Darden Restaurants,https://www.investing.com/equities/dardem-rest,DRI
+374,Seagen,"https://www.investing.com/equities/seattle-genetics,",SGEN
+375,WEC Energy,https://www.investing.com/equities/wisconsin-energy-corp,WEC
+376,Newegg Commerce,https://www.investing.com/equities/dehaier-medical-systems,NEGG
+377,Estee Lauder,https://www.investing.com/equities/estee-lauder,EL
+378,General Dynamics,https://www.investing.com/equities/general-dynam,GD
+379,McKesson,https://www.investing.com/equities/mckesson-corp,MCK
+380,Eastman Chemical,https://www.investing.com/equities/eastman-chem,EMN
+381,Coca-Cola European,https://www.investing.com/equities/coca-cola-ent,CCEP
+382,Wipro ADR,https://www.investing.com/equities/wipro,WIT
+383,DexCom,https://www.investing.com/equities/dexcom,DXCM
+384,Iron Mountain,https://www.investing.com/equities/iron-mountain-inc,IRM
+385,Wolfspeed,https://www.investing.com/equities/cree-inc.,WOLF
+386,Equity Residential,https://www.investing.com/equities/eq-resident,EQR
+387,Alkermes Plc,https://www.investing.com/equities/alkermes-plc,ALKS
+388,Quest Diagnostics,https://www.investing.com/equities/quest-diag,DGX
+389,Aon,https://www.investing.com/equities/aon-corp,AON
+390,Travelers,https://www.investing.com/equities/the-travelers-co,TRV
+391,Deere&Company,https://www.investing.com/equities/deere---co,DE
+392,Agilent Technologies,https://www.investing.com/equities/agilent-tech,A
+393,Eaton,https://www.investing.com/equities/eaton,ETN
+394,HDFC Bank ADR,https://www.investing.com/equities/hdfc-bank,HDB
+395,Urban Outfitters,https://www.investing.com/equities/urban-outfitters,URBN
+396,Lam Research,https://www.investing.com/equities/lam-research-corp,LRCX
+397,Charter Communications,https://www.investing.com/equities/charter-communications,CHTR
+398,T Rowe,https://www.investing.com/equities/t-rowe-price-gp,TROW
+399,Take-Two,https://www.investing.com/equities/take-two-interactive,TTWO
+400,Crocs,https://www.investing.com/equities/crocs,CROX
+401,KLA-Tencor,https://www.investing.com/equities/kla-tencor-corp,KLAC
+402,Biogen,https://www.investing.com/equities/biogen-idec-inc,BIIB
+403,CME Group,https://www.investing.com/equities/cme-group-inc.,CME
+404,Biomarin Pharma,https://www.investing.com/equities/biomarin-pharmaceuticals,BMRN
+405,Citrix Systems,https://www.investing.com/equities/citrix-sys-inc,CTXS
+406,Becton Dickinson,https://www.investing.com/equities/becton-dickinsn,BDX
+407,Cytokinetics Inc,https://www.investing.com/equities/cytokinetics,CYTK
+408,Zions,https://www.investing.com/equities/zions-bancorp,ZION
+409,Vornado,https://www.investing.com/equities/vornado-realty,VNO
+410,IFF,https://www.investing.com/equities/intl-flav---frag,IFF
+411,Cummins,https://www.investing.com/equities/cummins-inc,CMI
+412,SSR Mining,https://www.investing.com/equities/silver-standard-resources,SSRM
+413,RR Donnelley & Sons,"https://www.investing.com/equities/donnelley,-r.r.---sons",RRD
+414,Liberty Global,https://www.investing.com/equities/liberty-global-inc,LBTYA
+415,Paychex,https://www.investing.com/equities/paychex-inc,PAYX
+416,Ameren,https://www.investing.com/equities/ameren-corp,AEE
+417,Clorox,https://www.investing.com/equities/clorox-co,CLX
+418,Associated Banc-Corp,https://www.investing.com/equities/associated-banc-corp,ASB
+419,CMS Energy,https://www.investing.com/equities/cms-energy-corp,CMS
+420,Waste Management,https://www.investing.com/equities/waste-managemnt,WM
+421,AmerisourceBergen,https://www.investing.com/equities/amerisourcebergn,ABC
+422,Magna Intl,https://www.investing.com/equities/magna-international,MGA
+423,DaVita,https://www.investing.com/equities/davita-inc,DVA
+424,Garmin,https://www.investing.com/equities/garmin-ltd,GRMN
+425,Allegheny Technologies,https://www.investing.com/equities/allegheny-tech,ATI
+426,Air Products,https://www.investing.com/equities/air-prods---chem,APD
+427,PerkinElmer,https://www.investing.com/equities/perkinelmer,PKI
+428,Hologic,https://www.investing.com/equities/hologic-inc,HOLX
+429,McCormick&Co,https://www.investing.com/equities/mccormick---co,MKC
+430,ACADIA,https://www.investing.com/equities/acadia-pharmaceuticals,ACAD
+431,The Cheesecake,https://www.investing.com/equities/the-cheesecake-factory,CAKE
+432,Durect,https://www.investing.com/equities/durect-corp,DRRX
+433,Expeditors Washington,https://www.investing.com/equities/expeditors-intl-wash-inc,EXPD
+434,Honda Motor ADR,https://www.investing.com/equities/honda,HMC
+435,Illumina,"https://www.investing.com/equities/illumina,-inc.",ILMN
+436,Amkor,https://www.investing.com/equities/amkor-technology,AMKR
+437,Rambus,https://www.investing.com/equities/rambus-inc,RMBS
+438,Extreme,https://www.investing.com/equities/extreme-networks,EXTR
+439,Robert Half,https://www.investing.com/equities/robert-half-intl,RHI
+440,L3Harris Technologies,https://www.investing.com/equities/harris-corporation,LHX
+441,Aehr Test Systems,https://www.investing.com/equities/aehr-test-systems,AEHR
+442,Textron,https://www.investing.com/equities/textron-inc,TXT
+443,Harley-Davidson,https://www.investing.com/equities/harley-davidson,HOG
+444,AcelRx,https://www.investing.com/equities/acelrx-pharmaceuticals,ACRX
+445,Essential Utilities,https://www.investing.com/equities/aqua-america-inc.,WTRG
+446,Akamai,https://www.investing.com/equities/akamai-technologies-inc,AKAM
+447,Sealed Air,https://www.investing.com/equities/sealed-air,SEE
+448,Rockwell Automation,https://www.investing.com/equities/rockwell-automat,ROK
+449,Codexis,https://www.investing.com/equities/codexis,CDXS
+450,Jefferies Financial,https://www.investing.com/equities/leucadia-natl,JEF
+451,Allied Healthcare,https://www.investing.com/equities/allied-healthcare,AHPI
+452,Entegris,https://www.investing.com/equities/entegris-inc.,ENTG
+453,Arch Resources,https://www.investing.com/equities/arch-coal-inc,ARCH
+454,Vulcan Materials,https://www.investing.com/equities/vulcan-matrls,VMC
+455,Nomura ADR,https://www.investing.com/equities/nomura-holdings,NMR
+456,FMC,https://www.investing.com/equities/fmc-corp,FMC
+457,Loews,https://www.investing.com/equities/loews-corporation,L
+458,Tenet Healthcare,https://www.investing.com/equities/tenet-healthcare,THC
+459,Check Point Software,https://www.investing.com/equities/check-point-software-tech-lt,CHKP
+460,Entergy,https://www.investing.com/equities/entergy-corp,ETR
+461,Fortress Biotech,https://www.investing.com/equities/coronado-bioscien,FBIO
+462,Equifax,https://www.investing.com/equities/equifax-inc,EFX
+463,Tupperware Brands,https://www.investing.com/equities/tupperware-brands,TUP
+464,Illinois Tool Works,https://www.investing.com/equities/illinois-tool-wk-r,ITW
+465,eHealth,https://www.investing.com/equities/ehealth,EHTH
+466,Mizuho Financial ADR,https://www.investing.com/equities/mizuho,MFG
+467,Boston Properties,https://www.investing.com/equities/boston-ppty,BXP
+468,BioDelivery Sciences,https://www.investing.com/equities/biodelivery,BDSI
+469,Catalyst Pharmaceuticals,https://www.investing.com/equities/catalyst-pharmaceuticals,CPRX
+470,News Corp,https://www.investing.com/equities/news-corporation,NWS
+471,M&T Bank,https://www.investing.com/equities/m-t-bank-corp,MTB
+472,Constellation Brands A,https://www.investing.com/equities/constellation-a,STZ
+473,Nasdaq Inc,https://www.investing.com/equities/nasdaq-omx-group,NDAQ
+474,Cognex,https://www.investing.com/equities/cognex-corp,CGNX
+475,Alpha & Omega Semiconductor,https://www.investing.com/equities/alpha-and-omega,AOSL
+476,Columbia Banking,https://www.investing.com/equities/columbia-banking,COLB
+477,Hershey Co,https://www.investing.com/equities/hershey-co,HSY
+478,Compugen,https://www.investing.com/equities/compugen?cid=15702,CGEN
+479,AutoNation,https://www.investing.com/equities/autonation-inc,AN
+480,Pinnacle West,https://www.investing.com/equities/pinnacle-west,PNW
+481,Yellow,https://www.investing.com/equities/yrc-worldwide,YELL
+482,Ralph Lauren A,https://www.investing.com/equities/polo-ralph-laur,RL
+483,Accuray,https://www.investing.com/equities/accuray-incorped,ARAY
+484,Sharing Economy,https://www.investing.com/equities/cleantech,SEII
+485,ENGlobal,https://www.investing.com/equities/englobal-corp,ENG
+486,Hope Bancorp,https://www.investing.com/equities/bbcn-bancorp,HOPE
+487,Henry Schein,https://www.investing.com/equities/henry-schein,HSIC
+488,Moodys,https://www.investing.com/equities/moodys-corp,MCO
+489,Dover,https://www.investing.com/equities/dover-corp,DOV
+490,NCR,https://www.investing.com/equities/ncr-corp,NCR
+491,Tata Motors ADR,https://www.investing.com/equities/tata-motors,TTM
+492,ACI Worldwide,https://www.investing.com/equities/aci-worldwide,ACIW
+493,Southern Copper,https://www.investing.com/equities/southern-copper-corp.,SCCO
+494,Jabil Circuit,https://www.investing.com/equities/jabil-circuit,JBL
+495,VeriSign,https://www.investing.com/equities/verisign-inc,VRSN
+496,Destination XL Group,https://www.investing.com/equities/destination-xl,DXLG
+497,Arena Pharma,https://www.investing.com/equities/arena-pharma,ARNA
+498,Synovus,https://www.investing.com/equities/synovus-finan,SNV
+499,Motorola,https://www.investing.com/equities/motorola-inc,MSI
+500,Brown Forman,https://www.investing.com/equities/brown-forman-b,BFb
+501,AvalonBay,https://www.investing.com/equities/avalonbay-comm,AVB
+502,Sohu.Com,https://www.investing.com/equities/sohu-com-inc,SOHU
+503,NewYork Times,https://www.investing.com/equities/new-york-times,NYT
+504,First Midwest,https://www.investing.com/equities/first-midwest-ban,FMBI
+505,The Hain Celestial,https://www.investing.com/equities/hain-celestial-group,HAIN
+506,Axon Enterprise,https://www.investing.com/equities/taser-intl,AXON
+507,Sandridge Energy,https://www.investing.com/equities/sandridge-energy,SD
+508,Mullen Automotive,https://www.investing.com/equities/net-element-inc,MULN
+509,Delcath Systems,https://www.investing.com/equities/delcath-systems,DCTH
+510,Northrop Grumman,https://www.investing.com/equities/northrop-grumman,NOC
+511,Hasbro,https://www.investing.com/equities/hasbro-inc,HAS
+512,Patterson,https://www.investing.com/equities/patterson-companies-inc,PDCO
+513,China Jo-Jo Drugstores,https://www.investing.com/equities/china-jo-jo-drugs,CJJD
+514,Green Brick Partners Inc,https://www.investing.com/equities/biofuel-energy,GRBK
+515,Arrowhead Pharma,https://www.investing.com/equities/arrowhead-research-corp,ARWR
+516,CarMax,https://www.investing.com/equities/carmax-inc,KMX
+517,Euronet,https://www.investing.com/equities/euronet-worldwide,EEFT
+518,BioLineRx,https://www.investing.com/equities/biolinerx-ltd,BLRX
+519,Oshkosh,https://www.investing.com/equities/oshkosh-corporati,OSK
+520,Whirlpool,https://www.investing.com/equities/whirl-pool-corp,WHR
+521,Ryder System,https://www.investing.com/equities/ryder-system-inc,R
+522,Travel + Leisure Co,https://www.investing.com/equities/wyndham-world,TNL
+523,Capitol Federal,https://www.investing.com/equities/capitol-federal-financial,CFFN
+524,RPC,https://www.investing.com/equities/rpc-inc.,RES
+525,Ameriprise Financial,https://www.investing.com/equities/ameriprise-fincl,AMP
+526,Leggett&Platt,https://www.investing.com/equities/leggett---platt,LEG
+527,Sony ADR,https://www.investing.com/equities/sony,SONY
+528,Itron,https://www.investing.com/equities/itron-inc.,ITRI
+529,Parker-Hannifin,https://www.investing.com/equities/parkerhannifin,PH
+530,Alnylam,https://www.investing.com/equities/alnylam-pharmaceuticals,ALNY
+531,East West Bancorp,https://www.investing.com/equities/east-west-bancorp,EWBC
+532,O-I Glass,https://www.investing.com/equities/owens-illinois-inc,OI
+533,Cintas,https://www.investing.com/equities/cintas-corp,CTAS
+534,BlackRock,"https://www.investing.com/equities/blackrock,-inc.-c",BLK
+535,Celsion,https://www.investing.com/equities/celsion-corp.,CLSN
+536,Public Storage,https://www.investing.com/equities/public-stg-mld,PSA
+537,ARCA Biopharma,https://www.investing.com/equities/arca-biopharma,ABIO
+538,Republic Services,https://www.investing.com/equities/republic-services-inc,RSG
+539,Northern Trust,https://www.investing.com/equities/northern-trust,NTRS
+540,Alliance Resource,https://www.investing.com/equities/alliance-resource,ARLP
+541,Encore Capital,https://www.investing.com/equities/encore-capital-gr,ECPG
+542,Brunswick,https://www.investing.com/equities/brunswick-corp,BC
+543,Denny’s,https://www.investing.com/equities/dennys-corp,DENN
+544,Adtalem Education,https://www.investing.com/equities/devry-inc,ATGE
+545,Autoliv,https://www.investing.com/equities/autoliv-inc.,ALV
+546,Humana,https://www.investing.com/equities/humana-inc,HUM
+547,Flowserve,https://www.investing.com/equities/flowserve-corp,FLS
+548,1-800 FLOWERS.COM,https://www.investing.com/equities/1-800-flowers.com,FLWS
+549,Coherus BioSciences,https://www.investing.com/equities/charming-shoppes,CHRS
+550,Career,https://www.investing.com/equities/career-education,PRDO
+551,Genuine Parts,https://www.investing.com/equities/genuine-parts-co,GPC
+552,Federated Investors B,https://www.investing.com/equities/fed-investors,FHI
+553,Align,https://www.investing.com/equities/align-technology,ALGN
+554,IAC/InterActiveCorp,https://www.investing.com/equities/iac-interactivecorp,IAC
+555,Polarityte,https://www.investing.com/equities/majesco-entertainment,PTE
+556,Astrotech,https://www.investing.com/equities/astrotech-corp,ASTC
+557,Assertio Therapeutics,https://www.investing.com/equities/depomed,ASRT
+558,Globe Life,https://www.investing.com/equities/torchmark-corp,GL
+559,BJs Restaurants,https://www.investing.com/equities/bjs-restaurants,BJRI
+560,Sprott Physical Gold and Silver Trust,https://www.investing.com/equities/central-fund-of-canada-limited,CEF
+561,Ceragon,https://www.investing.com/equities/ceragon,CRNT
+562,Royal Gold,https://www.investing.com/equities/royal-gold-inc.,RGLD
+563,Laboratory America,https://www.investing.com/equities/laboratory-corp-of-amer,LH
+564,Canon ADR,https://www.investing.com/equities/canon,CAJ
+565,Fluidigm,https://www.investing.com/equities/fluidigm-corp,FLDM
+566,Middleby Corp,https://www.investing.com/equities/the-middleby-corp,MIDD
+567,Vericel Corp Ord,https://www.investing.com/equities/aastrom-bioscienc,VCEL
+568,Cadiz,https://www.investing.com/equities/cadiz,CDZI
+569,Lazard,https://www.investing.com/equities/lazard-ltd,LAZ
+570,O’Reilly Automotive,https://www.investing.com/equities/oreilly-automotive,ORLY
+571,JB Hunt,https://www.investing.com/equities/j.b.-hunt-transpo,JBHT
+572,Terex,https://www.investing.com/equities/terex-corp,TEX
+573,Cincinnati Financial,https://www.investing.com/equities/cincinnati-fin,CINF
+574,Avadel Pharma,https://www.investing.com/equities/flamel-tech,AVDL
+575,Atlas Air,https://www.investing.com/equities/atlas-air-worldwide,AAWW
+576,Cohu,https://www.investing.com/equities/cohu,COHU
+577,Cirrus,https://www.investing.com/equities/cirrus-logic-inc.,CRUS
+578,Daktronics,https://www.investing.com/equities/daktronics,DAKT
+579,Liveramp,https://www.investing.com/equities/acxiom-inc,RAMP
+580,CVB Financial,https://www.investing.com/equities/cvb-financial-corp,CVBF
+581,Jacobs Engineering,https://www.investing.com/equities/jacobs-engineer,J
+582,Cutera,https://www.investing.com/equities/cutera,CUTR
+583,Avery Dennison,https://www.investing.com/equities/avery-dennison,AVY
+584,ANSYS,https://www.investing.com/equities/ansys,ANSS
+585,Carter’s,https://www.investing.com/equities/carters-inc,CRI
+586,Amedisys,https://www.investing.com/equities/amedisys-inc,AMED
+587,Option Care Health,https://www.investing.com/equities/bioscrip,OPCH
+588,Celldex Therapeutics,https://www.investing.com/equities/celldex-therapeutics,CLDX
+589,MBIA,https://www.investing.com/equities/mbia-inc,MBI
+590,Chipotle Mexican Grill,https://www.investing.com/equities/chipotle-mexican-grill-inc,CMG
+591,M/I Homes,https://www.investing.com/equities/m-i-homes-inc,MHO
+592,Roper Technologies,https://www.investing.com/equities/roper-industries,ROP
+593,Antelope Enterprise Holdings,https://www.investing.com/equities/china-ceramics,AEHL
+594,Bottomline,https://www.investing.com/equities/bottomline-techno,EPAY
+595,Avid,https://www.investing.com/equities/avid-technology,AVID
+596,Booking,https://www.investing.com/equities/priceline.com-inc,BKNG
+597,ZW Data Action Technologies,https://www.investing.com/equities/chinanet-online,CNET
+598,F5 Networks,https://www.investing.com/equities/f5-networks-inc,FFIV
+599,Bridgeline Digital,https://www.investing.com/equities/bridgeline-digita,BLIN
+600,Equinix,"https://www.investing.com/equities/equinix,-inc.",EQIX
+601,Cracker Barrel Old,https://www.investing.com/equities/cracker-barrelold-country,CBRL
+602,Denbury Resources,https://www.investing.com/equities/denbury-resources-inc,DEN
+603,Commerce Bancshares,https://www.investing.com/equities/commerce-bancshar,CBSH
+604,Cardiovascular,https://www.investing.com/equities/cardiovascular,CSII
+605,Sify,https://www.investing.com/equities/sify-technologies,SIFY
+606,Waters,https://www.investing.com/equities/waters-corp,WAT
+607,EMCORE,https://www.investing.com/equities/emcore-corp,EMKR
+608,Acacia Research,https://www.investing.com/equities/acacia-research-corp,ACTG
+609,Ashland Global,https://www.investing.com/equities/ashland-inc,ASH
+610,Nustar,https://www.investing.com/equities/nustar-energy-l.p.,NS
+611,AtriCure,https://www.investing.com/equities/atricure,ATRC
+612,ODP,https://www.investing.com/equities/office-depot,ODP
+613,Rogers Communications,https://www.investing.com/equities/rogers-communicat,RCI
+614,Consolidated Communications,https://www.investing.com/equities/consolidated-comm,CNSL
+615,Ryanair ADR,https://www.investing.com/equities/ryanair-hldgs,RYAAY
+616,Assurant,https://www.investing.com/equities/assurant,AIZ
+617,Axcelis,https://www.investing.com/equities/axcelis-tech,ACLS
+618,AVEO,https://www.investing.com/equities/aveo-pharmaceuticals,AVEO
+619,Citi Trends,https://www.investing.com/equities/citi-trends,CTRN
+620,Cross Country,https://www.investing.com/equities/cross-country,CCRN
+621,BSQUARE,https://www.investing.com/equities/bsquare-corp,BSQR
+622,Reliance Steel&Aluminum,https://www.investing.com/equities/reliance-steel---aluminum-co.,RS
+623,Titan,https://www.investing.com/equities/titan-international,TWI
+624,Weatherford,https://www.investing.com/equities/weatherfgord-intl,WFRD
+625,Biocept,https://www.investing.com/equities/bioclinica,BIOC
+626,Acadia Healthcare,https://www.investing.com/equities/acadia-healthcare,ACHC
+627,FirstCash,https://www.investing.com/equities/first-cash-financial,FCFS
+628,Lamar,https://www.investing.com/equities/lamar-advertising-co,LAMR
+629,Berkshire Hills Bancorp,https://www.investing.com/equities/berkshire-hills-b,BHLB
+630,IPG Photonics,https://www.investing.com/equities/ipg-photonics-corp.,IPGP
+631,Dillards,https://www.investing.com/equities/dillards,DDS
+632,First Financial Bancorp,https://www.investing.com/equities/first-financial-bancorp,FFBC
+633,Cathay,https://www.investing.com/equities/cathay-general,CATY
+634,Ameris,https://www.investing.com/equities/ameris-bancorp,ABCB
+635,Columbia Sportswear,https://www.investing.com/equities/columbia-sportswear,COLM
+636,Calumet,https://www.investing.com/equities/calumet-specialty,CLMT
+637,American Superconductor,https://www.investing.com/equities/american-superconductor,AMSC
+638,Broadwind,https://www.investing.com/equities/broadwind-energy,BWEN
+639,Sears,https://www.investing.com/equities/sears-hldgs-corp,SHLDQ
+640,Stewart Info Services,https://www.investing.com/equities/stewart-information-services-corp,STC
+641,Conns,https://www.investing.com/equities/conns,CONN
+642,FormFactor,https://www.investing.com/equities/formfactor,FORM
+643,Capital Product,https://www.investing.com/equities/capital-product-partners,CPLP
+644,Camtek,https://www.investing.com/equities/camtek?cid=15640,CAMT
+645,ADTRAN,https://www.investing.com/equities/adtran-inc.,ADTN
+646,ABIOMED,https://www.investing.com/equities/abiomed,ABMD
+647,Makita,https://www.investing.com/equities/makita-corp,MKTAY
+648,Beacon Roofing,https://www.investing.com/equities/beacon-roofing,BECN
+649,aTyr Pharma,https://www.investing.com/equities/life-tech-corp,LIFE
+650,First Interstate BancSystem,https://www.investing.com/equities/first-interstate,FIBK
+651,Energy Recovery,https://www.investing.com/equities/energy-recovery,ERII
+652,National Beverage,https://www.investing.com/equities/national-beverage,FIZZ
+653,The Chefs Warehouse,https://www.investing.com/equities/the-chefs-warehouse,CHEF
+654,Astronics,https://www.investing.com/equities/astronics-corp,ATRO
+655,Unisys,https://www.investing.com/equities/unisys-corp,UIS
+656,Stericycle,https://www.investing.com/equities/stericycle-inc,SRCL
+657,Cytori Therapeutics,https://www.investing.com/equities/cytori-therapeutics,PSTV
+658,AAON,https://www.investing.com/equities/aaon,AAON
+659,Argo Group Int,https://www.investing.com/equities/argo-group-intern,ARGO
+660,EW Scripps A,https://www.investing.com/equities/e.w.-scripps-comp,SSP
+661,Blackbaud,https://www.investing.com/equities/blackbaud,BLKB
+662,Casella,https://www.investing.com/equities/casella-waste-sys,CWST
+663,Beasley,https://www.investing.com/equities/beasley-broadcast,BBGI
+664,ArcBest Corp,https://www.investing.com/equities/arkansas-best-corp,ARCB
+665,CONMED,https://www.investing.com/equities/conmed-corp,CNMD
+666,Nexus Energy,https://www.investing.com/equities/nexus-energy,IBGR
+667,ASGN,https://www.investing.com/equities/on-assignment,ASGN
+668,First Financial Bankshares,https://www.investing.com/equities/first-financial-bankshares,FFIN
+669,Cal-Maine,https://www.investing.com/equities/cal-maine-foods,CALM
+670,Radware,https://www.investing.com/equities/radware-ltd.,RDWR
+671,EZCORP,https://www.investing.com/equities/ezcorp,EZPW
+672,Ribbon Com,https://www.investing.com/equities/sonus-networks,RBBN
+673,Gentherm,https://www.investing.com/equities/gentherm,THRM
+674,Diodes,https://www.investing.com/equities/diodes-inc,DIOD
+675,WW Grainger,https://www.investing.com/equities/w-w-grainger-inc,GWW
+676,Balchem,https://www.investing.com/equities/balchem-corp,BCPC
+677,Capital Southwest,https://www.investing.com/equities/capital-southwest,CSWC
+678,ITT,https://www.investing.com/equities/itt-corp,ITT
+679,Amtech,https://www.investing.com/equities/amtech-systems,ASYS
+680,Axos Financial,https://www.investing.com/equities/bofi-holding,AX
+681,Clarus,https://www.investing.com/equities/black-diamond,CLAR
+682,Snap-On,https://www.investing.com/equities/snapon-inc,SNA
+683,AngioDynamics,https://www.investing.com/equities/angiodynamics,ANGO
+684,Enterprise Financial,https://www.investing.com/equities/enterprise-financial,EFSC
+685,Cowen Group,https://www.investing.com/equities/cowen-group,COWN
+686,Advanced Energy,https://www.investing.com/equities/advanced-energy,AEIS
+687,Exponent,https://www.investing.com/equities/exponent,EXPO
+688,Calavo Growers,https://www.investing.com/equities/calavo-growers,CVGW
+689,Statera Biopharma,https://www.investing.com/equities/cleveland-biolabs,STAB
+690,Brookline Bancorp,https://www.investing.com/equities/brookline-bancorp,BRKL
+691,Ebix,https://www.investing.com/equities/ebix-inc,EBIX
+692,CSG Systems,https://www.investing.com/equities/csg-systems,CSGS
+693,Enzon,https://www.investing.com/equities/enzon-pharmaceuticals,ENZN
+694,CMC Materials,https://www.investing.com/equities/cabot-microelectr,CCMP
+695,The Ensign,https://www.investing.com/equities/the-ensign-group,ENSG
+696,Meta Financial,https://www.investing.com/equities/meta-financial,CASH
+697,Toyota Motor ADR,https://www.investing.com/equities/toyota,TM
+698,Banc of California,https://www.investing.com/equities/banc-of-california,BANC
+699,Cogent,https://www.investing.com/equities/cogent-communications,CCOI
+700,Albireo Pharma,https://www.investing.com/equities/biodel-inc,ALBO
+701,Dime Community,https://www.investing.com/equities/dime-community-ba,DCOM
+702,Churchill Downs,https://www.investing.com/equities/churchill-downs,CHDN
+703,Descartes Systems,https://www.investing.com/equities/descartes-systems-group-inc?cid=15939,DSGX
+704,AXT,https://www.investing.com/equities/axt-inc,AXTI
+705,Coherent,https://www.investing.com/equities/coherent,COHR
+706,Manitowoc,https://www.investing.com/equities/manitowoc-co.,MTW
+707,Allegiant,https://www.investing.com/equities/allegiant-travel,ALGT
+708,Caseys,https://www.investing.com/equities/caseys-general,CASY
+709,Central Garden&Pet A,https://www.investing.com/equities/central-garden-pet-a,CENTA
+710,AeroVironment,https://www.investing.com/equities/aerovironment,AVAV
+711,Digimarc,https://www.investing.com/equities/digimarc-corp,DMRC
+712,Flushing,https://www.investing.com/equities/flushing-financial,FFIC
+713,Piper Jaffray,https://www.investing.com/equities/piper-jaffray-co,PIPR
+714,Inotiv,https://www.investing.com/equities/bioanalytical-sys,NOTV
+715,AutoZone,https://www.investing.com/equities/autozone-inc,AZO
+716,ManTech,https://www.investing.com/equities/mantech-international,MANT
+717,BOK Financial,https://www.investing.com/equities/bok-financial-corp,BOKF
+718,DRDGOLD ADR,https://www.investing.com/equities/drdgold-ltd,DRD
+719,Shyft Group Inc,https://www.investing.com/equities/spartan-motors,SHYF
+720,Bel Fuse B,https://www.investing.com/equities/bel-fuse-inc-(b),BELFB
+721,Eagle Bulk Shipping,https://www.investing.com/equities/eagle-bulk-shippi,EGLE
+722,Franklin Electric,https://www.investing.com/equities/franklin-electric,FELE
+723,Dr. Reddy’s Labs ADR,https://www.investing.com/equities/dr.-reddys-laboratories,RDY
+724,Overseas Shipholding,https://www.investing.com/equities/overseas-shipholding-group,OSG
+725,Charles&Colvard,https://www.investing.com/equities/charles---colvard,CTHR
+726,First Bancorp,https://www.investing.com/equities/first-bancorp,FBNC
+727,Altra,https://www.investing.com/equities/altra-holdings,AIMC
+728,CalAmp,https://www.investing.com/equities/calamp-corp,CAMP
+729,IRSA Propiedades ADR,https://www.investing.com/equities/alto-palermo-sa,IRCP
+730,American Woodmark,https://www.investing.com/equities/american-woodmark,AMWD
+731,Banner,https://www.investing.com/equities/banner-corp,BANR
+732,China Natural Resources,https://www.investing.com/equities/china-natural,CHNR
+733,Erie Indemnity,https://www.investing.com/equities/erie-indemnity-co,ERIE
+734,Fanhua,https://www.investing.com/equities/cninsure-inc,FANH
+735,Enerpac Tool Group,https://www.investing.com/equities/actuant-corp,EPAC
+736,The Andersons,https://www.investing.com/equities/the-andersons,ANDE
+737,Coca-Cola Femsa ADR,https://www.investing.com/equities/coca-cola-femsa-adr,KOF
+738,Commercial Vehicle,https://www.investing.com/equities/commercial-vehicl,CVGI
+739,Aviat,https://www.investing.com/equities/aviat-networks,AVNW
+740,Star Equity Holdings,https://www.investing.com/equities/digirad-corp,STRR
+741,Cresud SACIF,https://www.investing.com/equities/cresud-s.a.c.i.f.,CRESY
+742,ADES,https://www.investing.com/equities/ada-es,ADES
+743,Dynatronics,https://www.investing.com/equities/dynatronics-corp,DYNT
+744,Credit Acceptance,https://www.investing.com/equities/credit-acceptance,CACC
+745,Acorda,https://www.investing.com/equities/acorda-therapeutics,ACOR
+746,First Busey,https://www.investing.com/equities/first-busey-corp,BUSE
+747,Astec,https://www.investing.com/equities/astec-industries,ASTE
+748,Atlanticuss,https://www.investing.com/equities/atlanticuss,ATLC
+749,Computer Programs&Systems,https://www.investing.com/equities/computer-programs,CPSI
+750,Addus,https://www.investing.com/equities/addus-homecare,ADUS
+751,American Software,https://www.investing.com/equities/american-software,AMSWA
+752,CEVA,https://www.investing.com/equities/ceva,CEVA
+753,Digi,https://www.investing.com/equities/digi--international,DGII
+754,Hong Yuan Holding Group,https://www.investing.com/equities/cereplast,HGYN
+755,ExlServices,https://www.investing.com/equities/exlservice-holdin,EXLS
+756,Nabors Industries,https://www.investing.com/equities/nabors-inds,NBR
+757,Anika,https://www.investing.com/equities/anika-therapeutics,ANIK
+758,Comtech,https://www.investing.com/equities/comtech-tele,CMTL
+759,US Ecology,https://www.investing.com/equities/us-ecology,ECOL
+760,Taoping,https://www.investing.com/equities/china-information,TAOP
+761,Capstone Green Energy,https://www.investing.com/equities/capstone-turbine-corp,CGRN
+762,American Public Education,https://www.investing.com/equities/american-public-education,APEI
+763,Natus,https://www.investing.com/equities/natus-medical-inc,NTUS
+764,Pingtan Marine,https://www.investing.com/equities/pingtan-marine,PME
+765,Allot Communications,https://www.investing.com/equities/allot-communications-ta?cid=15373,ALLT
+766,CytRx,https://www.investing.com/equities/cytrx-corp,CYTR
+767,Farmer Bros. Co,https://www.investing.com/equities/farmer-brothers-c,FARM
+768,eGain,https://www.investing.com/equities/egain-communications,EGAN
+769,Dawson Geophysical,https://www.investing.com/equities/dawson-geophysica,DWSN
+770,Carver,https://www.investing.com/equities/carver-bancorp,CARV
+771,China Automotive,https://www.investing.com/equities/china-automotive,CAAS
+772,Clearfield,https://www.investing.com/equities/clearfield,CLFD
+773,CTI Industries,https://www.investing.com/equities/cti-industries-corp,CTIB
+774,US Gold,https://www.investing.com/equities/dataram-corp,USAU
+775,Century Casinos,https://www.investing.com/equities/century-casinos,CNTY
+776,ClearOne,https://www.investing.com/equities/clearone-communications,CLRO
+777,CVD Equipment,https://www.investing.com/equities/cvd-equipment-corp,CVV
+778,Columbus McKinnon,https://www.investing.com/equities/columbus-mckinnon,CMCO
+779,Covenant,https://www.investing.com/equities/covenant-transpor,CVLG
+780,Euroseas,https://www.investing.com/equities/euroseas-ltd,ESEA
+781,CECO Environmental,https://www.investing.com/equities/ceco-environmenta,CECE
+782,The Dixie,https://www.investing.com/equities/the-dixie-group,DXYN
+783,America First Tax,https://www.investing.com/equities/america-first-tax,ATAX
+784,Americas Car-Mart,https://www.investing.com/equities/americas-car-mart,CRMT
+785,QuickLogic,https://www.investing.com/equities/quicklogic-corp.,QUIK
+786,Broadway Financial,https://www.investing.com/equities/broadway-financial,BYFC
+787,Consumer Portfolio Services,https://www.investing.com/equities/consumer-portfolio,CPSS
+788,AudioCodes,https://www.investing.com/equities/audiocodes?cid=15499,AUDC
+789,Community Trust,https://www.investing.com/equities/community-trust-bancorp,CTBI
+790,Alpine Immune Sciences,https://www.investing.com/equities/novellus-sys,ALPN
+791,Burcon NutraScience,https://www.investing.com/equities/burcon-nutrascience-corp?cid=15617,BRCN
+792,Apogee,https://www.investing.com/equities/apogee-enterprise,APOG
+793,AMERISAFE,https://www.investing.com/equities/amerisafe,AMSF
+794,CNB Financial,https://www.investing.com/equities/cnb-financial-corp,CCNE
+795,Motorcar Parts,https://www.investing.com/equities/motorcar-parts-of-america,MPAA
+796,EDAP,https://www.investing.com/equities/edap-tms-sa,EDAP
+797,Forward Industries,https://www.investing.com/equities/forward-industries,FORD
+798,Cyclacel,https://www.investing.com/equities/cyclacel-pharmaceuticals,CYCC
+799,Hovnanian Enterprises,https://www.investing.com/equities/hovnanian-enter,HOV
+800,Farmers National,https://www.investing.com/equities/farmers-national,FMNB
+801,Eagle,https://www.investing.com/equities/eagle-bancorp,EGBN
+802,American National Insurance,https://www.investing.com/equities/american-national-insurance,ANAT
+803,Consolidated Water,https://www.investing.com/equities/consolidated-water,CWCO
+804,Cohen Steers,https://www.investing.com/equities/cohen---steers-inc.,CNS
+805,Cyanotech,https://www.investing.com/equities/cyanotech-corp,CYAN
+806,Blueknight,https://www.investing.com/equities/blueknight-energy,BKEP
+807,Dmc Global,https://www.investing.com/equities/dynamic-materials,BOOM
+808,BancFirst,https://www.investing.com/equities/bancfirst-corp,BANF
+809,Central Garden&Pet,https://www.investing.com/equities/central-garden---pet-co.,CENT
+810,Dorman,https://www.investing.com/equities/dorman-products,DORM
+811,Evolving Systems,https://www.investing.com/equities/evolving-systems,EVOL
+812,Premier Financial,https://www.investing.com/equities/first-defiance,PFC
+813,Agilysys,https://www.investing.com/equities/agilysys,AGYS
+814,Cavco,https://www.investing.com/equities/cavco-industries,CVCO
+815,China Recycling Energy,https://www.investing.com/equities/china-recycling,CREG
+816,FARO,https://www.investing.com/equities/faro-technologies,FARO
+817,DXP Enterprises,https://www.investing.com/equities/dxp-enterprises,DXPE
+818,First Financial Northwest,https://www.investing.com/equities/first-financial-northwest,FFNW
+819,Acorn,https://www.investing.com/equities/acorn-energy,ACFN
+820,Lindsay,https://www.investing.com/equities/lindsay-corporation,LNN
+821,Grupo Aeroportuario Sureste ADR,https://www.investing.com/equities/grupo-aeroportuario-sur-adr,ASR
+822,Bryn Mawr Bank,https://www.investing.com/equities/bryn-mawr-bank-co,BMTC
+823,Alimera,https://www.investing.com/equities/alimera-sciences,ALIM
+824,Cass,https://www.investing.com/equities/cass-information,CASS
+825,ADDvantage,https://www.investing.com/equities/addvantage-technologies,AEY
+826,Asure,https://www.investing.com/equities/asure-software-inc,ASUR
+827,First of Long Island,https://www.investing.com/equities/the-first-of-long,FLIC
+828,Enstar,https://www.investing.com/equities/enstar-group-ltd,ESGR
+829,UTStarcom,https://www.investing.com/equities/utstarcom-inc,UTSI
+830,First Community,https://www.investing.com/equities/first-community-corp,FCCO
+831,Dorchester Minerals,https://www.investing.com/equities/dorchester-minera,DMLP
+832,First Citizens BancShares,https://www.investing.com/equities/first-citizens-bancshares,FCNCA
+833,Aware,https://www.investing.com/equities/aware,AWRE
+834,Bassett,https://www.investing.com/equities/bassett-furniture,BSET
+835,ATA,https://www.investing.com/equities/ata-inc,AACG
+836,City Holding,https://www.investing.com/equities/city-holding-comp,CHCO
+837,Crown Crafts,https://www.investing.com/equities/crown-crafts,CRWS
+838,BCB Bancorp,https://www.investing.com/equities/bcb-bancorp,BCBP
+839,CorVel,https://www.investing.com/equities/corvel-corp,CRVL
+840,ATN Int,https://www.investing.com/equities/atlantic-tele-net,ATNI
+841,Financial Institutions,https://www.investing.com/equities/financial-institutions,FISI
+842,Autoweb,https://www.investing.com/equities/autobytel-inc,AUTO
+843,World Poker Fund Holdings,https://www.investing.com/equities/mmk_mm,WPFH
+844,Stabilis Solutions,https://www.investing.com/equities/american-electric-tech,SLNG
+845,The First Bancshares,https://www.investing.com/equities/the-first-bancshares,FBMS
+846,China Fund,https://www.investing.com/equities/china-fund-inc,CHN
+847,Trecora Resources,https://www.investing.com/equities/arabian-american,TREC
+848,CRA,https://www.investing.com/equities/cra-international,CRAI
+849,Flexsteel,https://www.investing.com/equities/flexsteel-industries,FLXS
+850,Sierra Bancorp,https://www.investing.com/equities/sierra-bancorp,BSRR
+851,Oi ADR Pref,https://www.investing.com/equities/oi,OIBRQ
+852,Janone,https://www.investing.com/equities/appliance-recycling,JAN
+853,China Green Agriculture,https://www.investing.com/equities/china-green,CGA
+854,Asia Pacific Wire & Cable,https://www.investing.com/equities/asia-pacific-wire,APWC
+855,Abraxas Petroleum,https://www.investing.com/equities/abraxas-petroleum,AXAS
+856,Escalade,https://www.investing.com/equities/escalade,ESCA
+857,Camden,https://www.investing.com/equities/camden-national,CAC
+858,Civista Bancshares,https://www.investing.com/equities/first-citizens-banc-corp,CIVB
+859,CyberOptics,https://www.investing.com/equities/cyberoptics-corp,CYBE
+860,Donegal A,https://www.investing.com/equities/donegal-group-(a),DGICA
+861,Educational Development,https://www.investing.com/equities/educational-devel,EDUC
+862,Meat-Tech 3D,https://www.investing.com/equities/d-medical-ind?cid=15922,MTTCF
+863,First Community Bancshares,https://www.investing.com/equities/first-community-b,FCBC
+864,AstroNova,https://www.investing.com/equities/astro-med,ALOT
+865,Data I/O,https://www.investing.com/equities/data-i-o-corp,DAIO
+866,Electro-Sensors,https://www.investing.com/equities/electro-sensors,ELSE
+867,Bank of Marin,https://www.investing.com/equities/bank-of-marin-ban,BMRC
+868,Euro Tech,https://www.investing.com/equities/euro-tech-holding,CLWT
+869,Enterprise,https://www.investing.com/equities/enterprise-bancor,EBTC
+870,Coca-Cola Bottling,https://www.investing.com/equities/coca-cola-bottlin,COKE
+871,Arrow,https://www.investing.com/equities/arrow-financial-corp,AROW
+872,Alico,https://www.investing.com/equities/alico,ALCO
+873,Orix,https://www.investing.com/equities/orix,IX
+874,Airnet Tech,https://www.investing.com/equities/airmedia-group,ANTE
+875,Fuwei Films Holdings,https://www.investing.com/equities/fuwei-films-(holdings)-co.,FFHL
+876,Central Valley Community,https://www.investing.com/equities/central-valley,CVCY
+877,Arts-Way,https://www.investing.com/equities/arts-way-manufacturing,ARTW
+878,Capital City Bank,https://www.investing.com/equities/capital-city-bank,CCBG
+879,Graham Holdings,https://www.investing.com/equities/washington-post-co.,GHC
+880,Fonar,https://www.investing.com/equities/fonar-corp,FONR
+881,Eastern Co,https://www.investing.com/equities/the-eastern-company,EML
+882,China XD Plastics,https://www.investing.com/equities/china-xd-plastics,CXDC
+883,Engie,https://www.investing.com/equities/gdf-suez?cid=15286,ENGQF
+884,American National Bankshares,https://www.investing.com/equities/american-national-bankshares,AMNB
+885,Barrett,https://www.investing.com/equities/barrett-business,BBSI
+886,Artesian,https://www.investing.com/equities/artesian-resource,ARTNA
+887,Citizens&Northern,https://www.investing.com/equities/citizens---northe,CZNC
+888,Allied Motion,https://www.investing.com/equities/allied-motion-tech,AMOT
+889,Kyocera ADR,https://www.investing.com/equities/kyocera,KYOCY
+890,Ames,https://www.investing.com/equities/ames-national-corp,ATLO
+891,Oak Ridge,https://www.investing.com/equities/oak-ridge-financial,BKOR
+892,Escalon Medical Corp,https://www.investing.com/equities/escalon-medical-c,ESMC
+893,Community West Bancshares,https://www.investing.com/equities/community-west-bancshares,CWBC
+894,BankFinancial,https://www.investing.com/equities/bankfinancial-corp,BFIN
+895,Codorus Valley,https://www.investing.com/equities/codorus-valley,CVLY
+896,Diamond Hill,https://www.investing.com/equities/diamond-hill-inve,DHIL
+897,Comstock,https://www.investing.com/equities/comstock-homebuil,CHCI
+898,First Bancorp Inc,https://www.investing.com/equities/first-bancorp-(me),FNLC
+899,Davis Select US Equity,https://www.investing.com/equities/dusa-pharmaceuticals,DUSA
+900,CF Bankshares,https://www.investing.com/equities/central-federal,CFBK
+901,ACNB,https://www.investing.com/equities/acnb-corp,ACNB
+902,Eltek,https://www.investing.com/equities/eltek-ltd,ELTK
+903,Performance Shipping,https://www.investing.com/equities/diana-containersh,PSHG
+904,Alithya A,https://www.investing.com/equities/edgewater-technol,ALYA
+905,BBQ Holdings,https://www.investing.com/equities/famous-daves-of,BBQ
+906,Deswell Industries,https://www.investing.com/equities/deswell-industries,DSWL
+907,First Business,https://www.investing.com/equities/first-business,FBIZ
+908,Atlantic American,https://www.investing.com/equities/atlantic-american,AAME
+909,Bel Fuse A,https://www.investing.com/equities/bel-fuse-inc-(a),BELFA
+910,Industrias Bachoco ADR,https://www.investing.com/equities/industrias-bachoco-sab-adr,IBA
+911,1st Constitution Bancorp,https://www.investing.com/equities/1st-constitution,FCCY
+912,CSP,https://www.investing.com/equities/csp-inc,CSPI
+913,Ark Restaurants,https://www.investing.com/equities/ark-restaurants-corp,ARKR
+914,Town Sportss,https://www.investing.com/equities/town-sports-international,CLUBQ
+915,AmeriServ,https://www.investing.com/equities/ameriserv,ASRV
+916,Hong Kong TV Network,https://www.investing.com/equities/city-telecom-hk,HKTVY
+917,Scully Royalty,https://www.investing.com/equities/mfc-industrial,SRL
+918,Frequency Electronics,https://www.investing.com/equities/frequency-electro,FEIM
+919,BOS,https://www.investing.com/equities/b.o.s.-better-onl,BOSC
+920,America Movil ADR A,https://www.investing.com/equities/america-movil-sab-de-cv,AMOV
+921,First Capital,https://www.investing.com/equities/first-capital,FCAP
+922,Air T,https://www.investing.com/equities/air-t,AIRT
+923,El Paso Energy Capital Trust I,https://www.investing.com/equities/el-paso-corp,EP_pc
+924,Mitsui & Company,https://www.investing.com/equities/mitsui---company-ltd,MITSY
+925,Computer Task,https://www.investing.com/equities/computer-task,CTG
+926,ATRION,https://www.investing.com/equities/atrion-corp,ATRI
+927,AmTrust Financial,https://www.investing.com/equities/amtrust-financial,AFSIM
+928,Anthera Pharma,https://www.investing.com/equities/anthera-pharmaceuticals,ANTH
+929,Discovery B,https://www.investing.com/equities/discovery-communications-(b),DISCB
+930,Bonso Electronics Int,https://www.investing.com/equities/bonso-electronics,BNSO
+931,Citizens Community,https://www.investing.com/equities/citizens-community,CZWI
+932,Colony Bankcorp,https://www.investing.com/equities/colony-bankcorp,CBAN
+933,Commercial National Financial,https://www.investing.com/equities/commercial-nation,CNAF
+934,Eagle Montana,https://www.investing.com/equities/eagle-bancorp-mon,EBMT
+935,C&F Financial,https://www.investing.com/equities/c-f-financial-corp,CFFI
+936,ESSA Bancorp,https://www.investing.com/equities/essa-bancorp,ESSA
+937,Elmira Savings Bank,https://www.investing.com/equities/the-elmira-saving,ESBK
+938,Daily Journal Corp,https://www.investing.com/equities/daily-journal-corp,DJCO
+939,Acura Pharma,https://www.investing.com/equities/acura-pharmaceuticals,ACUR
+940,Canterbury Park,https://www.investing.com/equities/canterbury-park,CPHC
+941,Crumbs,https://www.investing.com/equities/crumbs-bake-shop,CRMBQ
+942,CDTi Advanced Materials,https://www.investing.com/equities/clean-diesel-tech,CDTI
+943,FFD Financial Corp,https://www.investing.com/equities/ffd-financial-corp,FFDF
+944,Bank of South Carolina,https://www.investing.com/equities/bank-of-south-car,BKSC
+945,China Auto Logistics,https://www.investing.com/equities/china-auto-logist,CALI
+946,Regis Resources,https://www.investing.com/equities/regis-resources-ltd?cid=14595,RGRNF
+947,Donegal B,https://www.investing.com/equities/donegal-group-(b),DGICB
+948,LiNiu Tech,https://www.investing.com/equities/iao-kun-group-hld,LINUF
+949,Cache,https://www.investing.com/equities/cache,CACH
+950,China Techfaith,https://www.investing.com/equities/china-techfaith,CNTFY
+951,Destination Maternity,https://www.investing.com/equities/destination-mater,DESTQ
+952,Emclaire,https://www.investing.com/equities/emclaire-financial,EMCF
+953,Empresas ICA ADR,https://www.investing.com/equities/empresas-ica-soc-con,ICAYY
+954,Auburn,https://www.investing.com/equities/auburn-national-b,AUBN
+955,Emmis Comm,https://www.investing.com/equities/emmis-communications,EMMS
+956,American Caresource,https://www.investing.com/equities/american-caresource,GNOW
+957,ASM ADR,https://www.investing.com/equities/asm-international-nv,ASMIY
+958,ASML Holding,https://www.investing.com/equities/asml-holding?cid=15470,ASMLF
+959,bebe stores,https://www.investing.com/equities/bebe-stores,BEBE
+960,Citizens,https://www.investing.com/equities/citizens-holding,CIZN
+961,Polymetal,https://www.investing.com/equities/polymetal?cid=13751,POYYF
+962,Bon-Ton Stores,https://www.investing.com/equities/the-bon-ton-store,BONTQ
+963,Internet Initiative Japan ADR,https://www.investing.com/equities/internet-initiative-japan,IIJIY
+964,Bridgford,https://www.investing.com/equities/bridgford-foods-c,BRID
+965,Puma SE,https://www.investing.com/equities/puma-se-cfd?cid=6309,PMMAF
+966,First Bancshares,https://www.investing.com/equities/first-bancshares,FBSI
+967,Biostar Pharma,https://www.investing.com/equities/biostar-pharmaceuticals,BSPM
+968,Gruma SAB de CV,https://www.investing.com/equities/gruma-sab-adr,GPAGF
+969,CBB Bancorp,https://www.investing.com/equities/cbb,CBBI
+970,Wacoal,https://www.investing.com/equities/wacoal-holdings-corp.,WACLY
+971,B Communications,https://www.investing.com/equities/b-communication?cid=15533,BCOMF
+972,FalconStor,https://www.investing.com/equities/falconstor-softwa,FALC
+973,ARC Group,https://www.investing.com/equities/arc-wireless,ARCW
+974,McKesson Europe,https://www.investing.com/equities/celesio-mu?cid=6291,CAKFF
+975,Apollo Bancorp,https://www.investing.com/equities/apollo-group-inc,APLO
+976,Meredith,https://www.investing.com/equities/meredith-corp,MDP
+977,Laird,https://www.investing.com/equities/laird,LARRF
+978,Merriman,https://www.investing.com/equities/merriman-holdings,MERR
+979,New Zealand Oil Gas,https://www.investing.com/equities/nz-oil---gas?cid=14296,NZEOF
+980,Aeon Global,https://www.investing.com/equities/authentidate-hold,AGHC
+981,Andatee China Marine,https://www.investing.com/equities/andatee-china-marine,AMCF
+982,Ameritrans Capital,https://www.investing.com/equities/ameritrans-capital,AMTCQ
+983,Vereit,https://www.investing.com/equities/american-realty-c,VER
+984,Diversicare,https://www.investing.com/equities/diversicare,DVCR
+985,Berkshire,https://www.investing.com/equities/berkshire-bancorp,BERK
+986,BG Medicine,https://www.investing.com/equities/bg-medicine,BGMD
+987,Brooks Automation,https://www.investing.com/equities/brooks-automation,BRKS
+988,CCUR Holdings,https://www.investing.com/equities/concurrent-comput,CCUR
+989,California First National,https://www.investing.com/equities/california-first,CFNB
+990,Century Bancorp,https://www.investing.com/equities/century-bancorp,CNBKA
+991,Viewtran,https://www.investing.com/equities/cogo-group,VIEWF
+992,Cornerstone OnDemand,https://www.investing.com/equities/cornerstone-ondem,CSOD
+993,DSP Group,https://www.investing.com/equities/dsp-group,DSPG
+994,Dynasil of America,https://www.investing.com/equities/dynasil-corp,DYSL
+995,Meridian Interstate,https://www.investing.com/equities/meridian-intersta,EBSB
+996,Echo Global,https://www.investing.com/equities/echo-global-logis,ECHO
+997,Education Management,https://www.investing.com/equities/education-managem,EDMCQ
+998,Exceed Company,https://www.investing.com/equities/exceed-company-lt,EDSFF
+999,Elbit Imaging,https://www.investing.com/equities/elbit-imaging?cid=16000,EMITF
